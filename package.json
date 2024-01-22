@@ -11,7 +11,7 @@
   "version": "0.11.11",
   "dependencies": {
     "Casper": "DisruptiveAngels/Casper",
-    "ghost": "0.11.11",
+    "ghost": "5.76.0",
     "ghost-s3-storage-adapter": "3.0.4",
     "ncp": "^2.0.0",
     "pg": "latest"
